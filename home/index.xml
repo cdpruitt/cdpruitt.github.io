@@ -95,13 +95,12 @@ Cole co-directed/produced THE SURROUNDING GAME (2018), the first feature documen
     </item>
     
     <item>
-      <title>Custom Section</title>
-      <link>https://cdpruitt.github.io/home/teaching/</link>
+      <title>Media</title>
+      <link>https://cdpruitt.github.io/home/media/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://cdpruitt.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <guid>https://cdpruitt.github.io/home/media/</guid>
+      <description></description>
     </item>
     
     <item>
