@@ -12,14 +12,5 @@
 	<atom:link href="https://cdpruitt.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Neutron Total Cross Sections on Isotopic Targets</title>
-      <link>https://cdpruitt.github.io/publication/_nanoporemassspectrometer/</link>
-      <pubDate>Fri, 02 Nov 2018 10:54:23 -0500</pubDate>
-      
-      <guid>https://cdpruitt.github.io/publication/_nanoporemassspectrometer/</guid>
-      <description>Manuscript in preparation</description>
-    </item>
-    
   </channel>
 </rss>
