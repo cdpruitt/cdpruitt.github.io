@@ -1,21 +1,24 @@
 ---
 title: "Neutron Total Cross Sections and Neutron Skins"
+
 date: 2019-01-13T19:04:13-06:00
-abstract: The nuclear opƟcal model was developed in the 1950s and 60s in part to explain
-neutron total cross secƟon data in a simple, intuiƟve way. Since then, regional and
-global opƟcal models have been developed for a wide variety of projecƟles (p, n,
-alpha, heavy ion, etc.), but most lack sufficient jusƟficaƟon in formal many‐body
-methods. In addiƟon, as phenomenological objects, opƟcal models are only as
+
+abstract: The nuclear optical model was developed in the 1950s and 60s in part to explain
+neutron total cross section data in a simple, intuitive way. Since then, regional and
+global optical models have been developed for a wide variety of projectiles (p, n,
+alpha, heavy ion, etc.), but most lack sufficient justification in formal many‐body
+methods. In addition, as phenomenological objects, optical models are only as
 good as the data they are based on. Thus, given the paucity of high‐energy proton
-reacƟon cross secƟon and neutron total cross secƟon data in the literature, their
+reaction cross section and neutron total cross section data in the literature, their
 usefulness typically diminishes beyond 100 MeV.
-This seminar will present a new digiƟzer‐enabled approach employed to make a
-series of neutron total cross secƟon measurements on isotopically‐separated tar‐
+This seminar will present a new digitizer‐enabled approach employed to make a
+series of neutron total cross section measurements on isotopically‐separated tar‐
 gets across a wide energy range. Coupled with new developments in the Dispersive
-OpƟcal Model (DOM), which extends tradiƟonal opƟcal models to the negaƟve en‐
-ergy domain by enforcing a dispersion relaƟon, these new experimental results
-generate predicƟons for the neutron skins of O18, Ca48, Ni58, Ni64, Sn112, and
+Optical Model (DOM), which extends traditional optical models to the negative en‐
+ergy domain by enforcing a dispersion relation, these new experimental results
+generate predictions for the neutron skins of O18, Ca48, Ni58, Ni64, Sn112, and
 Sn124 and help constrain the density dependence of the symmetry energy.
+
 draft: false
 ---
 

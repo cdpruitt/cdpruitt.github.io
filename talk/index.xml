@@ -12,5 +12,41 @@
 	<atom:link href="https://cdpruitt.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Ultracondensed Science: Where We Come From</title>
+      <link>https://cdpruitt.github.io/talk/ultracondensed-science-where-we-come-from/</link>
+      <pubDate>Sun, 13 Jan 2019 21:40:00 -0600</pubDate>
+      
+      <guid>https://cdpruitt.github.io/talk/ultracondensed-science-where-we-come-from/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2018 Nuclear Posture Review</title>
+      <link>https://cdpruitt.github.io/talk/npr-review-2018-09-21/</link>
+      <pubDate>Sun, 13 Jan 2019 21:07:15 -0600</pubDate>
+      
+      <guid>https://cdpruitt.github.io/talk/npr-review-2018-09-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Projects at WU: Total (n) Cross Sections on $^{16,18}$O, $^{58,64}$Ni, $^{112,124}$Sn, and Two New Near p-Threshold Resonances Explained by a Continuum-Cognizant Shell Model.</title>
+      <link>https://cdpruitt.github.io/talk/tamu-sept-2018/</link>
+      <pubDate>Sun, 13 Jan 2019 20:26:12 -0600</pubDate>
+      
+      <guid>https://cdpruitt.github.io/talk/tamu-sept-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutron Total Cross Sections and Neutron Skins</title>
+      <link>https://cdpruitt.github.io/talk/tunl-jan-2019/</link>
+      <pubDate>Sun, 13 Jan 2019 19:39:43 -0600</pubDate>
+      
+      <guid>https://cdpruitt.github.io/talk/tunl-jan-2019/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
